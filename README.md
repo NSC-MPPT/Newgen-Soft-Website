@@ -44,7 +44,7 @@
 
 ![img](https://avatars2.githubusercontent.com/u/11354582?v=3&s=280){:height="100" width="100"}
 
-微软自家出的浏览器，兼容谷歌浏览器插件（核心改成谷歌了）。能快速打开各种网站，还是不错的。
+微软自家出的浏览器，兼容谷歌浏览器插件（核心改成谷歌了）。能快速打开各种网站，还是不错的。特别有插件同步，还不会被国家Q了。
 网站会使用跟踪工具来收集有关您浏览行为的数据。它们会收集有关您与网站如何进行交互的数据，以及有关您的浏览行为的其他有趣信息。Microsoft Edge 可以检测和阻止这些跟踪工具。我们让您自行来决定要阻止哪些跟踪工具。
 当您使用 InPrivate 标签页或窗口时，您的浏览数据（例如历史记录、Internet 临时文件以及 Cookie）在浏览结束后不会保存到您的设备上。我们尊重您使用 InPrivate 进行浏览的决定，不会将数据绑定到您的 Microsoft 帐户上。
 Microsoft Edge 内置了 Microsoft Defender SmartScreen。我们保护您免受网络钓鱼或恶意软件网站的攻击，并防止您下载潜在的恶意文件。在 Microsoft Edge 中，Microsoft Defender SmartScreen 默认处于启用状态。
