@@ -73,7 +73,7 @@
 
 ## 百分浏览器
 
-![img](![img](https://tse3-mm.cn.bing.net/th/id/OIP.k1QoHKohCNmr6EzYUQb1UQHaFV?pid=Api&rs=1){:height="100" width="100"}){:height="100" width="100"}
+![img](https://tse4-mm.cn.bing.net/th/id/OIP.OoKQc4lvT79mgtSpbag5xAAAAA?pid=Api&rs=1){:height="100" width="100"}
 
 基于 Google Chrome 的浏览器。改进了 Chrome 的很多缺点，是国人作品。非常不错！[官网](https://www.centbrowser.cn/)
 
