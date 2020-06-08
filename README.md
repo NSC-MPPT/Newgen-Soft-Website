@@ -81,6 +81,8 @@
 
 ## 星愿浏览器
 
+![image](https://image.twinkstar.com/twinkstar15547173209_1.png)
+
 一群大学生开发的浏览器（大学生超喜欢）。
 
 [官网](https://www.twinkstar.com/) [果核剥壳便携版](https://www.ghpym.com/twinkstar.html)
