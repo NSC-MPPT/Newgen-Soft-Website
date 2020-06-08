@@ -39,6 +39,20 @@
 
 [果核剥壳（推荐）](https://www.ghpym.com/360zipgj.html)
 
+## 浏览器
+
+## Microsoft Edge
+
+![img](https://avatars2.githubusercontent.com/u/11354582?v=3&s=280){:height="100" width="100"}
+
+微软自家出的浏览器，兼容谷歌浏览器插件（核心改成谷歌了）。能快速打开各种网站，还是不错的。
+
+### 下载地址
+
+[官网（推荐）](https://www.microsoft.com/zh-cn/edge?form=MI13F3&OCID=MI13F3) [果核剥壳增强版](https://www.ghpym.com/microsoftedgeportable.html) [果核剥壳无修改版本](https://www.ghpym.com/microsoftedge.html)
+
+## Google Chrome
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
