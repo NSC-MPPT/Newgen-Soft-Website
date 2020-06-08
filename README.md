@@ -71,6 +71,16 @@
 
 [官网直链下载（推荐）](https://download-ssl.firefox.com.cn/releases-sha2/stub/official/zh-CN/Firefox-latest.exe) [果核剥壳无修改版本](https://www.ghpym.com/mozillafirefox.html) [果核剥壳增强版](https://www.ghpym.com/runningcheesefirefox.html)
 
+## 百分浏览器
+
+![img](![img](https://tse3-mm.cn.bing.net/th/id/OIP.k1QoHKohCNmr6EzYUQb1UQHaFV?pid=Api&rs=1){:height="100" width="100"}){:height="100" width="100"}
+
+基于 Google Chrome 的浏览器。改进了 Chrome 的很多缺点，是国人作品。非常不错！[官网](https://www.centbrowser.cn/)
+
+[官网直链下载（推荐）](http://static.centbrowser.cn/installer_32/centbrowser_4.2.10.171.exe) [果核剥壳便携版](https://www.ghpym.com/centbrowser.html)
+
+## 星愿浏览器
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
