@@ -44,7 +44,7 @@
 
 ![img](https://avatars2.githubusercontent.com/u/11354582?v=3&s=280){:height="100" width="100"}
 
-微软自家出的浏览器，兼容谷歌浏览器插件（核心改成谷歌了）。能快速打开各种网站，还是不错的。
+微软自家出的浏览器，兼容谷歌浏览器插件（核心改成谷歌了）。能快速打开各种网站，还是不错的。[隐私说明](https://microsoftedgewelcome.microsoft.com/privacy)
 
 ### 下载地址
 
