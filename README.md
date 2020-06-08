@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+[Image](https://nsc-mppt.gitee.io/newgen-soft-website/images/N%E7%99%BD.png)
+## 欢迎来到 牛根软件下载站！
 
-You can use the [editor on GitHub](https://github.com/NSC-MPPT/Newgen-Soft-Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本网站旨在搭建一个良心软件的聚集地。
 
 ### Markdown
 
