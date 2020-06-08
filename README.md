@@ -64,7 +64,13 @@
 
 ## Firefox
 
+![img](https://tse3-mm.cn.bing.net/th/id/OIP.k1QoHKohCNmr6EzYUQb1UQHaFV?pid=Api&rs=1){:height="100" width="100"}
 
+火狐浏览器比起谷歌，占用内存小很多，本地化更完善，程序员调试的神器，也是极客首选！谷歌支持的插件，火狐也大部分支持。完善的国内账号服务，能做到三端互通！(果核剥壳)
+
+### 下载地址
+
+[官网直链下载（推荐）](https://download-ssl.firefox.com.cn/releases-sha2/stub/official/zh-CN/Firefox-latest.exe) [果核剥壳无修改版本](https://www.ghpym.com/mozillafirefox.html) [果核剥壳增强版](https://www.ghpym.com/runningcheesefirefox.html)
 
 ### Markdown
 
