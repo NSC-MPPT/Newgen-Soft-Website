@@ -9,6 +9,7 @@
 
 [浏览器](#browser)
 
+[不友好软件](#unfriendly)
 
 ## <span id="zip">压缩软件</span>
 
@@ -92,6 +93,8 @@ Microsoft Edge 内置了 Microsoft Defender SmartScreen。我们保护您免受�
 一群大学生开发的浏览器（大学生超喜欢）。
 
 [官网](https://www.twinkstar.com/) [果核剥壳便携版](https://www.ghpym.com/twinkstar.html)
+
+## <span id="unfriendly">不友好软件</span>
 
 ### Markdown
 
