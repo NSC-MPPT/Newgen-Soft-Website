@@ -96,6 +96,14 @@ Microsoft Edge 内置了 Microsoft Defender SmartScreen。我们保护您免受�
 
 ## <span id="unfriendly">不友好软件</span>
 
+腾讯电脑管家
+
+带2345字样的软件
+
+FF新鲜事
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
