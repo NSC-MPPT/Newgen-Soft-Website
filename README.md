@@ -16,7 +16,6 @@
 
 ## Bandizip
 
-![img](https://cdn.neow.in/news/images/uploaded/2016/08/1471032574_bandizip6_story.jpg){:height="100" width="100"}
 虽然 7-Zip 是开源免费压缩工具中的佼佼者，但用得不是很顺手，今天试了下推荐的 Bandizip 却出人意料的好用！Bandizip 是一款来自韩国的免费优秀的文件压缩/解压缩软件，支持 Win 与 Mac，操作方式与 WinRAR 相似，支持压缩和解压 rar、zip、7z 等众多主流格式…（果核剥壳）
 
 一款优秀的，界面简洁的解压缩软件。
@@ -25,6 +24,16 @@
 
 [果核剥壳（推荐）](https://www.ghpym.com/bandizip.html) [官网6.27无广告版本下载](https://dl.bandisoft.com/bandizip/BANDIZIP-SETUP.EXE) 
 [官网7.0+有广告版本下载](http://dl.bandisoft.com/bandizip.std/BANDIZIP-SETUP-STD-ALL.EXE)
+
+## 360压缩（国际版）
+
+360做的国际版压缩软件，国内软件厂商都有个共性，就是国际版清爽干净简约。国内版本就花里胡哨各种弹窗，还真是国内钱好赚？还好360压缩国内国际版本都比较清爽，是360家为数不多的干净软件。
+
+360国际版界面非常好看，扁平化风格，比经典的压缩软件界面好看了很多，不想折腾的同学，直接用这个就够了。（果核剥壳）
+
+### 下载地址
+
+[果核剥壳（推荐）](https://www.ghpym.com/360zipgj.html)
 
 ### Markdown
 
