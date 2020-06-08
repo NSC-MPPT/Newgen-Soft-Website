@@ -6,6 +6,7 @@
 ## 目录
 
 压缩软件
+
 浏览器
 
 
@@ -15,6 +16,16 @@
 
 ## Bandizip
 
+![Image](https://cdn.neow.in/news/images/uploaded/2016/08/1471032574_bandizip6_story.jpg)
+
+虽然 7-Zip 是开源免费压缩工具中的佼佼者，但用得不是很顺手，今天试了下推荐的 Bandizip 却出人意料的好用！Bandizip 是一款来自韩国的免费优秀的文件压缩/解压缩软件，支持 Win 与 Mac，操作方式与 WinRAR 相似，支持压缩和解压 rar、zip、7z 等众多主流格式…（果核剥壳）
+
+一款优秀的，界面简洁的解压缩软件。
+
+### 下载地址
+
+[果核剥壳（推荐）](https://www.ghpym.com/bandizip.html) [官网6.27无广告版本下载](https://dl.bandisoft.com/bandizip/BANDIZIP-SETUP.EXE) 
+[官网7.0+有广告版本下载](http://dl.bandisoft.com/bandizip.std/BANDIZIP-SETUP-STD-ALL.EXE)
 
 ### Markdown
 
