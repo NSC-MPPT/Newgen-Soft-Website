@@ -53,6 +53,19 @@
 
 ## Google Chrome
 
+![img](https://www.google.com/chrome/static/images/chrome-logo.svg){:height="100" width="100"}
+
+元老地位，但是某些功能在国内不能用，你们知道的。
+
+### 下载地址
+
+[果核剥壳无修改版本（推荐）](https://www.ghpym.com/pcchrome.html) [官网](https://www.google.com/intl/zh-CN/chrome) 
+[果核剥壳增强版](https://www.ghpym.com/chrome.html)
+
+## Firefox
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
