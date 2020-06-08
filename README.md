@@ -84,6 +84,8 @@ Microsoft Edge 内置了 Microsoft Defender SmartScreen。我们保护您免受�
 
 基于 Google Chrome 的浏览器。改进了 Chrome 的很多缺点，是国人作品。非常不错！[官网](https://www.centbrowser.cn/)
 
+### 下载地址
+
 [官网直链下载（推荐）](http://static.centbrowser.cn/installer_32/centbrowser_4.2.10.171.exe) [果核剥壳便携版](https://www.ghpym.com/centbrowser.html)
 
 ## 星愿浏览器
@@ -91,6 +93,8 @@ Microsoft Edge 内置了 Microsoft Defender SmartScreen。我们保护您免受�
 ![image](https://image.twinkstar.com/twinkstar15547173209_1.png)
 
 一群大学生开发的浏览器（大学生超喜欢）。
+
+### 下载地址
 
 [官网](https://www.twinkstar.com/) [果核剥壳便携版](https://www.ghpym.com/twinkstar.html)
 
