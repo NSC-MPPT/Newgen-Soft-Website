@@ -7,7 +7,7 @@
 
 [压缩软件](#zip)
 
-浏览器
+[浏览器](#browser)
 
 
 ## <span id="zip">压缩软件</span>
@@ -38,7 +38,7 @@
 
 [果核剥壳（推荐）](https://www.ghpym.com/360zipgj.html)
 
-## 浏览器
+## <span id="browser">浏览器</span>
 
 ## Microsoft Edge
 
