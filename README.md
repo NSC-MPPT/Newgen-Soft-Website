@@ -3,7 +3,7 @@
 
 本网站旨在搭建一个良心软件的聚集地。
 
-## 目录（按分类查找）
+## <span id="menu">按分类查找</span>
 
 [压缩软件](#zip)
 
@@ -12,7 +12,6 @@
 [不友好软件](#unfriendly)
 
 ## <span id="zip">压缩软件</span>
-
 
 ## Bandizip
 
@@ -24,8 +23,8 @@
 
 ### 下载地址
 
-[果核剥壳（推荐）](https://www.ghpym.com/bandizip.html) [官网6.27无广告版本下载](https://dl.bandisoft.com/bandizip/BANDIZIP-SETUP.EXE) 
-[官网7.0+有广告版本下载](http://dl.bandisoft.com/bandizip.std/BANDIZIP-SETUP-STD-ALL.EXE)
+[果核剥壳（推荐）](https://www.ghpym.com/bandizip.html)  [官网6.27无广告版本下载](https://dl.bandisoft.com/bandizip/BANDIZIP-SETUP.EXE) 
+ [官网7.0+有广告版本下载](http://dl.bandisoft.com/bandizip.std/BANDIZIP-SETUP-STD-ALL.EXE)
 
 ## 360压缩（国际版）
 
@@ -38,6 +37,8 @@
 ### 下载地址
 
 [果核剥壳（推荐）](https://www.ghpym.com/360zipgj.html)
+
+[返回分类](#menu)
 
 ## <span id="browser">浏览器</span>
 
@@ -55,7 +56,8 @@ Microsoft Edge 内置了 Microsoft Defender SmartScreen。我们保护您免受�
 
 ### 下载地址
 
-[官网（推荐）](https://www.microsoft.com/zh-cn/edge?form=MI13F3&OCID=MI13F3) [果核剥壳增强版](https://www.ghpym.com/microsoftedgeportable.html) [果核剥壳无修改版本](https://www.ghpym.com/microsoftedge.html)
+[官网（推荐）](https://www.microsoft.com/zh-cn/edge?form=MI13F3&OCID=MI13F3)  [果核剥壳增强版](https://www.ghpym.com/microsoftedgeportable.html) 
+ [果核剥壳无修改版本](https://www.ghpym.com/microsoftedge.html)
 
 ## Google Chrome
 
@@ -65,8 +67,8 @@ Microsoft Edge 内置了 Microsoft Defender SmartScreen。我们保护您免受�
 
 ### 下载地址
 
-[果核剥壳无修改版本（推荐）](https://www.ghpym.com/pcchrome.html) [官网](https://www.google.com/intl/zh-CN/chrome) 
-[果核剥壳增强版](https://www.ghpym.com/chrome.html)
+[果核剥壳无修改版本（推荐）](https://www.ghpym.com/pcchrome.html)  [官网](https://www.google.com/intl/zh-CN/chrome) 
+ [果核剥壳增强版](https://www.ghpym.com/chrome.html)
 
 ## Firefox
 
@@ -76,7 +78,7 @@ Microsoft Edge 内置了 Microsoft Defender SmartScreen。我们保护您免受�
 
 ### 下载地址
 
-[官网直链下载（推荐）](https://download-ssl.firefox.com.cn/releases-sha2/stub/official/zh-CN/Firefox-latest.exe) [果核剥壳无修改版本](https://www.ghpym.com/mozillafirefox.html) [果核剥壳增强版](https://www.ghpym.com/runningcheesefirefox.html)
+[官网直链下载（推荐）](https://download-ssl.firefox.com.cn/releases-sha2/stub/official/zh-CN/Firefox-latest.exe)  [果核剥壳无修改版本](https://www.ghpym.com/mozillafirefox.html)  [果核剥壳增强版](https://www.ghpym.com/runningcheesefirefox.html)
 
 ## 百分浏览器
 
@@ -86,7 +88,7 @@ Microsoft Edge 内置了 Microsoft Defender SmartScreen。我们保护您免受�
 
 ### 下载地址
 
-[官网直链下载（推荐）](http://static.centbrowser.cn/installer_32/centbrowser_4.2.10.171.exe) [果核剥壳便携版](https://www.ghpym.com/centbrowser.html)
+[官网直链下载（推荐）](http://static.centbrowser.cn/installer_32/centbrowser_4.2.10.171.exe)  [果核剥壳便携版](https://www.ghpym.com/centbrowser.html)
 
 ## 星愿浏览器
 
@@ -96,7 +98,19 @@ Microsoft Edge 内置了 Microsoft Defender SmartScreen。我们保护您免受�
 
 ### 下载地址
 
-[官网](https://www.twinkstar.com/) [果核剥壳便携版](https://www.ghpym.com/twinkstar.html)
+[官网](https://www.twinkstar.com/)  [果核剥壳便携版](https://www.ghpym.com/twinkstar.html)
+
+## 360极速浏览器
+
+![img](https://tse4-mm.cn.bing.net/th/id/OIP.WXg3cEYikfCOHCXASdBhJAHaHa?pid=Api&rs=1){:height="100" width="100"}
+
+360为数不多的一款比较良心的浏览器。
+
+### 下载地址
+
+[官网（推荐）](https://browser.360.cn/ee/)
+
+[返回分类](#menu)
 
 ## <span id="unfriendly">不友好软件</span>
 
