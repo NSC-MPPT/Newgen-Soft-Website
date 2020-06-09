@@ -13,6 +13,8 @@
 
 [驱动软件](#driver) - [驱动总裁](#driver+)
 
+[安全软件](#safe)
+
 [不友好软件](#unfriendly)
 
 ## <span id="zip">压缩软件</span>
@@ -171,6 +173,12 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 ### 下载地址
 
 [官网（推荐）](http://weishi.360.cn/qudongdashi/index.html)  [果核剥壳单文件](https://www.ghpym.com/360drvmgr.html)
+
+[返回分类](#menu)
+
+## <span id="safe">安全软件</span>
+
+
 
 ## <span id="unfriendly">不友好软件</span>
 
