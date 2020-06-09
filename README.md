@@ -9,7 +9,7 @@
 
 [浏览器](#browser) - [Chrome](#chrome)
 
-[运行库类]()
+[运行库类](#running)  - [Java 64位](#java64)
 
 [不友好软件](#unfriendly)
 
@@ -126,9 +126,9 @@ Microsoft Edge 内置了 Microsoft Defender SmartScreen。我们保护您免受�
 
 [果核剥壳蓝奏云（推荐）](https://lanzous.com/b00ze15ab)  [果核剥壳原页面](https://www.ghpym.com/yxkhj.html)
 
-## Java （64 位）
+## <span id="java64">Java （64 位）</span>
 
-Java 的 64 位版本，适用于 Minecraft。
+Java 的 64 位版本，适用于 Minecraft。**不是 JVAV！**
 
 ![img](https://tse1-mm.cn.bing.net/th/id/OIP.dOlD2CRS-B9qC7C1GsZ4XQHaHa?pid=Api&rs=1){:height="100" width="100"}
 
