@@ -178,7 +178,27 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 
 ## <span id="safe">安全软件</span>
 
+## 火绒安全软件
 
+![img](https://tse3-mm.cn.bing.net/th/id/OIP.lXrES5kuhOT4ctq2ZgZSqgAAAA?pid=Api&rs=1){:height="100" width="100"}
+
+火绒是中国国内安全软件的一股清流，无广告还自带一些小功能，占用小。
+
+### 下载地址
+
+[官网](https://www.huorong.cn/)
+
+## 联想电脑管家
+
+![img](http://downza.img.zz314.com/softbaike/PCsoft/2016-12-30/1d58915860049ea974ad3da76c0b7f5a.png){:height="100" width="100"}
+
+主打实用功能，配合联想系电脑更佳。
+
+### 下载地址
+
+[官网](https://guanjia.lenovo.com.cn/)
+
+[返回分类](#menu)
 
 ## <span id="unfriendly">不友好软件</span>
 
