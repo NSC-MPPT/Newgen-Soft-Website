@@ -74,7 +74,7 @@ Microsoft Edge 内置了 Microsoft Defender SmartScreen。我们保护您免受�
 
 ## Firefox
 
-![img](https://tse3-mm.cn.bing.net/th/id/OIP.k1QoHKohCNmr6EzYUQb1UQHaFV?pid=Api&rs=1){:height="100" width="100"}
+![img](https://tse3-mm.cn.bing.net/th/id/OIP.k1QoHKohCNmr6EzYUQb1UQHaFV?pid=Api&rs=1)
 
 火狐浏览器比起谷歌，占用内存小很多，本地化更完善，程序员调试的神器，也是极客首选！谷歌支持的插件，火狐也大部分支持。完善的国内账号服务，能做到三端互通！(果核剥壳)
 
