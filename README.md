@@ -69,7 +69,7 @@ Microsoft Edge 内置了 Microsoft Defender SmartScreen。我们保护您免受�
 
 ### 下载地址
 
-[果核剥壳无修改版本（推荐）](https://www.ghpym.com/pcchrome.html)  [官网](https://www.google.com/intl/zh-CN/chrome) 
+[果核剥壳无修改版本（推荐）](https://www.ghpym.com/pcchrome.html)   [官网](https://www.google.com/intl/zh-CN/chrome) 
  [果核剥壳增强版](https://www.ghpym.com/chrome.html)
 
 ## Firefox
