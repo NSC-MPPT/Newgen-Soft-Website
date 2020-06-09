@@ -7,7 +7,7 @@
 
 [压缩软件](#zip)
 
-[浏览器](#browser) - [Chrome]()
+[浏览器](#browser) - [Chrome](#chrome)
 
 [运行库类]()
 
@@ -113,6 +113,18 @@ Microsoft Edge 内置了 Microsoft Defender SmartScreen。我们保护您免受�
 [官网（推荐）](https://browser.360.cn/ee/)
 
 [返回分类](#menu)
+
+## <span id="running">运行库类</span>
+
+## 微软常用运行库合集（果核剥壳）
+
+![img](https://img.lguohe.com/uploads/2020/04/20200504211126.png)
+
+果核剥壳出品，集成了新系统没有C++类运行库的尴尬。
+
+### 下载地址
+
+[果核剥壳蓝奏云（推荐）](https://lanzous.com/b00ze15ab) [果核剥壳原页面](https://www.ghpym.com/yxkhj.html)
 
 ## <span id="unfriendly">不友好软件</span>
 
