@@ -124,7 +124,19 @@ Microsoft Edge 内置了 Microsoft Defender SmartScreen。我们保护您免受�
 
 ### 下载地址
 
-[果核剥壳蓝奏云（推荐）](https://lanzous.com/b00ze15ab) [果核剥壳原页面](https://www.ghpym.com/yxkhj.html)
+[果核剥壳蓝奏云（推荐）](https://lanzous.com/b00ze15ab)  [果核剥壳原页面](https://www.ghpym.com/yxkhj.html)
+
+## Java （64 位）
+
+Java 的 64 位版本，适用于 Minecraft。
+
+![img](https://tse1-mm.cn.bing.net/th/id/OIP.dOlD2CRS-B9qC7C1GsZ4XQHaHa?pid=Api&rs=1){:height="100" width="100"}
+
+### 下载地址
+
+[蓝奏云（推荐）](https://ww.lanzous.com/ir6q4di3mde)  [官网直链下载](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242029_3d5a2bb8f8d4428bbe94aed7ec7ae784)
+
+
 
 ## <span id="unfriendly">不友好软件</span>
 
