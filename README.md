@@ -7,7 +7,9 @@
 
 [压缩软件](#zip)
 
-[浏览器](#browser)
+[浏览器](#browser) - [Chrome]()
+
+[运行库类]()
 
 [不友好软件](#unfriendly)
 
@@ -59,7 +61,7 @@ Microsoft Edge 内置了 Microsoft Defender SmartScreen。我们保护您免受�
 [官网（推荐）](https://www.microsoft.com/zh-cn/edge?form=MI13F3&OCID=MI13F3)  [果核剥壳增强版](https://www.ghpym.com/microsoftedgeportable.html) 
  [果核剥壳无修改版本](https://www.ghpym.com/microsoftedge.html)
 
-## Google Chrome
+## <span id="chrome">Google Chrome</span>
 
 ![img](https://www.google.com/chrome/static/images/chrome-logo.svg){:height="100" width="100"}
 
