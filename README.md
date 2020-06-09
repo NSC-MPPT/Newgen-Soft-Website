@@ -15,6 +15,8 @@
 
 [安全软件](#safe)
 
+[编辑器和 IDE ](#ide)
+
 [不友好软件](#unfriendly)
 
 ## <span id="zip">压缩软件</span>
@@ -199,6 +201,26 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 [官网](https://guanjia.lenovo.com.cn/)
 
 [返回分类](#menu)
+
+## <span id="ide">编辑器和 IDE</span>
+
+## <span id="vs">Visual Studio</span>
+
+![img](https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2019/01/visualstudio-1.png){:height="100"}
+
+宇宙最强 IDE 不接受反驳。
+
+### 下载地址
+
+[官网（推荐）](https://visualstudio.microsoft.com/zh-hans/)  [果核剥壳](https://www.ghpym.com/visualstudioios.html)
+
+## <span id="vscode">Visual Studio Code</span>
+
+![img](https://tse4-mm.cn.bing.net/th/id/OIP.EOPCay4ML76rIUskd6ZwRgHaDt?pid=Api&rs=1){:height="100"}
+
+微软出的一款编辑器。很好用，支持多种插件。
+
+[官网（推荐）](https://visualstudio.microsoft.com/zh-hans/)  [果核剥壳](https://www.ghpym.com/vscode.html)
 
 ## <span id="unfriendly">不友好软件</span>
 
