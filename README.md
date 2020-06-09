@@ -17,7 +17,7 @@
 
 [编辑器和 IDE ](#ide) - [Visual Studio](#vs) - [Visual Studio Code](#vscode) - [Dev-C++](#devcpp)
 
-[不友好软件](#unfriendly)
+[不友好软件（公 开 处 刑）](#unfriendly)
 
 ## <span id="zip">压缩软件</span>
 
