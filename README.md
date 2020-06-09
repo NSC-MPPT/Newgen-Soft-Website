@@ -152,6 +152,18 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 
 ## <span id="driver+">驱动总裁</span>
 
+![img](https://pic.cr173.com/up/2019-6/20196201043592519.png){:height="100" width="100"}
+
+一款十分小巧的驱动软件，是国人开发，界面清爽。
+
+### 下载地址
+
+[官网在线版](https://www.sysceo.com/Software-softwarei-id-258.html)  
+
+[官网网卡绿色版](https://www.sysceo.com/Software-softwarei-id-123.html)  
+
+## 360驱动大师
+
 
 
 ## <span id="unfriendly">不友好软件</span>
