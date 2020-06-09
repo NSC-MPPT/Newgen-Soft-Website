@@ -164,7 +164,13 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 
 ## 360驱动大师
 
+![img](http://img.pconline.com.cn/images/upload/upc/tx/pcdlc/1610/28/c0/29071826_29071826_1477646565819.jpg){:height="100" width="100"}
 
+360一款良心的软件，部分驱动总裁的驱动不行的话可以拿它顶一下。
+
+### 下载地址
+
+[官网（推荐）](http://weishi.360.cn/qudongdashi/index.html)  [果核剥壳单文件](https://www.ghpym.com/360drvmgr.html)
 
 ## <span id="unfriendly">不友好软件</span>
 
