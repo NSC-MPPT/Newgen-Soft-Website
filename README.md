@@ -15,7 +15,7 @@
 
 [安全软件](#safe)
 
-[编辑器和 IDE ](#ide)
+[编辑器和 IDE ](#ide) - [Visual Studio](#vs) - [Visual Studio Code](#vscode) - [Dev-C++](#devcpp)
 
 [不友好软件](#unfriendly)
 
@@ -220,7 +220,31 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 
 微软出的一款编辑器。很好用，支持多种插件。
 
+### 下载地址
+
 [官网（推荐）](https://visualstudio.microsoft.com/zh-hans/)  [果核剥壳](https://www.ghpym.com/vscode.html)
+
+## <span id="devcpp">Dev-C++</span>
+
+![img](https://tse2-mm.cn.bing.net/th/id/OIP.s6PMQIB4vqZcCL_foZSN8gHaHa?pid=Api&rs=1){:height="100" width="100"}
+
+适合 C++ 初学者的 IDE。**现已停更**
+
+### 下载地址
+
+[蓝奏云（推荐）](https://lanzous.com/if1yUdi5jkf)
+
+## Sublime Text 3 汉化版
+
+![img](https://tse1-mm.cn.bing.net/th/id/OIP.9owbCeyFzaiak3YUKnxZsAHaHa?pid=Api&rs=1){:height="100" width="100"}
+
+一款轻量级的编辑器，你可以扔掉记事本了！同时比记事本好看上千倍！
+
+### 下载地址
+
+[蓝奏云（推荐）](https://lanzous.com/im7uVdi5k1c)   [官网](https://www.sublimetext.com/)  [果核剥壳](https://www.ghpym.com/sublimetext3-2.html)
+
+[返回分类](#menu)
 
 ## <span id="unfriendly">不友好软件</span>
 
