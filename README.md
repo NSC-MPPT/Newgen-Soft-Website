@@ -136,7 +136,7 @@ Java 的 64 位版本，适用于 Minecraft。**不是 JVAV！**
 
 ### 下载地址
 
-[蓝奏云（推荐）](https://ww.lanzous.com/ir6q4di3mde)  [官网直链下载](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242029_3d5a2bb8f8d4428bbe94aed7ec7ae784)
+[蓝奏云（推荐）](https://lanzous.com/ir6q4di3mde)  [官网直链下载](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242029_3d5a2bb8f8d4428bbe94aed7ec7ae784)
 
 ## VBA For WPS
 
@@ -144,7 +144,7 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 
 ### 下载地址
 
-[蓝奏云（推荐）](https://www.lanzous.com/i32iqdi3ugf)
+[蓝奏云（推荐）]()
 
 [返回分类](#menu)
 
