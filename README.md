@@ -251,8 +251,7 @@
  [返回分类](#menu)
  
  ## <span id="system">系统</span>
-
-    <table>
+<table>
         <tr>
             <th>Windows 10</th>
             <th>Windows 8.1</th>
@@ -281,7 +280,7 @@
             <th>2</th>
             <th>标准错误输出</th>
         </tr>
-    </table>
+</table>
 
  ## <span id="jh">急活 Windows</span>
 
