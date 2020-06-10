@@ -251,24 +251,20 @@
  [返回分类](#menu)
  
  ## <span id="system">系统</span>
-<table>
-        <tr>
-            <th>Windows 10</th>
-            <th>Windows 8.1</th>
-            <th>Windows 7</th>
-            <th>Windows 远古版本</th>
-            <th>Ubuntu</th>
-            <th>Deepin</th>
-        </tr>
-        <tr>
-            <th><a href="https://www.microsoft.com/zh-cn/software-download/windows10">官网下载</a></th>
-            <th><a href="https://www.microsoft.com/zh-cn/software-download/windows8ISO">官网下载</a></th>
-            <th><a href="https://msdn.itellyou.cn/">前往 MSDN 我告诉你</a></th>
-            <th><a href="https://msdn.itellyou.cn/">前往 MSDN 我告诉你</a></th>
-            <th><a href="https://mirrors4.tuna.tsinghua.edu.cn/ubuntu-cdimage/">前往 清华大学开源软件镜像站</a></th>
-            <th><a href="https://mirrors4.tuna.tsinghua.edu.cn/deepin-cd/">前往 清华大学开源软件镜像站</a></th>
-        </tr>
-</table>
+ 
+ Windows 10：[官网下载](https://www.microsoft.com/zh-cn/software-download/windows10)
+ 
+ Windows 8.1：[官网下载](https://www.microsoft.com/zh-cn/software-download/windows8ISO)
+ 
+ Windows 7 ：[前往 MSDN 我告诉你](https://msdn.itellyou.cn/)
+ 
+ Windows 远古版本 ：[前往 MSDN 我告诉你](https://msdn.itellyou.cn/)
+ 
+ Ubuntu ：[前往 清华大学开源软件镜像站](https://mirrors4.tuna.tsinghua.edu.cn/ubuntu-cdimage/)
+ 
+ Deepin ：[前往 清华大学开源软件镜像站](https://mirrors4.tuna.tsinghua.edu.cn/deepin-cd/)
+
+ [返回分类](#menu)
 
  ## <span id="jh">急活 Windows</span>
 
