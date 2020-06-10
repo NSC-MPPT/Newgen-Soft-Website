@@ -268,18 +268,6 @@
             <th><a href="https://mirrors4.tuna.tsinghua.edu.cn/ubuntu-cdimage/">前往 清华大学开源软件镜像站</a></th>
             <th><a href="https://mirrors4.tuna.tsinghua.edu.cn/deepin-cd/">前往 清华大学开源软件镜像站</a></th>
         </tr>
-        <tr>
-            <th></th>
-            <th></th>
-            <th>1</th>
-            <th>标准输出</th>
-        </tr>
-        <tr>
-            <th>显示器</th>
-            <th>/dev/stderr</th>
-            <th>2</th>
-            <th>标准错误输出</th>
-        </tr>
 </table>
 
  ## <span id="jh">急活 Windows</span>
