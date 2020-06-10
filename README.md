@@ -148,7 +148,7 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 
 ### 下载地址
 
-[蓝奏云（推荐）]()
+[蓝奏云（推荐）](https://lanzous.com/i32iqdi3ugf)
 
 [返回分类](#menu)
 
