@@ -1,7 +1,7 @@
 ![Image](https://nsc-mppt.gitee.io/newgen-soft-website/images/N%E7%99%BD.png)
 # 欢迎来到 牛根软件下载站！
 
-本网站旨在搭建一个良心软件的聚集地。
+本网站旨在搭建一个良心软件的聚集地。现已和 Linkinter 合作！
 
 ## <span id="menu">按分类查找</span>
 
