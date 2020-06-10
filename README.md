@@ -247,10 +247,23 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 
 ## <span id="system">系统</span>
 
+Windows 10：[官网下载](https://www.microsoft.com/zh-cn/software-download/windows10)
+
+Windows 8.1：[官网下载](https://www.microsoft.com/zh-cn/software-download/windows8ISO)
+
+Windows 7 ：[前往 MSDN 我告诉你](https://msdn.itellyou.cn/)
+
+Windows 远古版本 ：[前往 MSDN 我告诉你](https://msdn.itellyou.cn/)
+
+Ubuntu ：[前往 清华大学开源软件镜像站](https://mirrors4.tuna.tsinghua.edu.cn/ubuntu-cdimage/)
+
+Deepin ：[前往 清华大学开源软件镜像站](https://mirrors4.tuna.tsinghua.edu.cn/deepin-cd/)
+
+[返回分类](#menu)
+
 ## <span id="jh">急活 Windows</span>
 
 ## 果核剥壳 KMS 急活脚本
-
 
 本站KMS服务器，长期维护，服务器来自微软云，真正官方jh。
 本脚本来自果核剥壳网友@edragon为本站制作的KMS jh脚本，包括脚本文件和exe可执行文件。能智能识别系统版本，jh不同的系统版本，同时整合了office jh码，能对office版本进行jh。另外脚本还包括清除jh信息的功能，使用前建议先清除以前的jh信息。
