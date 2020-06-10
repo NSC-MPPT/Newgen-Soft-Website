@@ -248,3 +248,39 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 ## <span id="system">系统</span>
 
 ## <span id="jh">急活 Windows</span>
+
+## 果核剥壳 KMS 急活脚本
+
+
+本站KMS服务器，长期维护，服务器来自微软云，真正官方jh。
+本脚本来自果核剥壳网友@edragon为本站制作的KMS jh脚本，包括脚本文件和exe可执行文件。能智能识别系统版本，jh不同的系统版本，同时整合了office jh码，能对office版本进行jh。另外脚本还包括清除jh信息的功能，使用前建议先清除以前的jh信息。
+
+手动jh请查看：https://www.ghpym.com/kms.html，欢迎更多的网友使用本站服务器制作jh软件。
+ 本站KMS服务器，长期维护，服务器来自微软云，真正官方jh。
+
+### 下载地址
+脚本jh以后，系统会自动每周验证，虽然显示jh180天，但是到了时间，系统会自动续期，无需手动操作，这个续期的功能是Windows自带的，无需手动操作，所以相当于一次jh，永久使用。（果核剥壳）
+
+[果核剥壳（推荐）](https://www.ghpym.com/ghkmsbat.html)   [Github](https://github.com/EDragon007/EDragonKMS)
+
+## AAct 急活工具
+
+AAct是一款绿色免费的能够自动设置密钥管理服务急活Windows、Office以及VL全部版本，支持手动安装及删除jh产品密钥、支持手动创建及删除续期计划任务，相比于国外的同类工具，自认为蛮好用，体积小、单执行文件、无残留文件，激活成功率高！（果核剥壳）
+
+### 下载地址
+
+[果核剥壳（推荐）](https://www.ghpym.com/category/all/system)
+
+[返回分类](#menu)
+
+## <span id="unfriendly">不友好软件</span>
+
+腾讯电脑管家
+
+带2345字样的软件
+
+FF新鲜事
+
+[返回分类](#menu)
+
+网站版本 20200610
