@@ -250,7 +250,7 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 
 [返回分类](#menu)
 
-## <span id="jihuo">急活</span>
+## <span id="jh">急活</span>
 
 ## 果核剥壳 KMS 急活脚本
 
