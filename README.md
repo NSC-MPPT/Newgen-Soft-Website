@@ -19,7 +19,7 @@
 
 [系统](#system)
 
-[jihuo](#jh)
+[jihuo Windows](#jh)
 
 [不友好软件（公 开 处 刑）](#unfriendly)
 
@@ -250,7 +250,7 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 
 [返回分类](#menu)
 
-## <span id="jh">急活</span>
+## <span id="jh">急活 Windows</span>
 
 ## 果核剥壳 KMS 急活脚本
 
