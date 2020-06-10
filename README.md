@@ -266,6 +266,16 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 
 [果核剥壳（推荐）](https://www.ghpym.com/ghkmsbat.html)   [Github](https://github.com/EDragon007/EDragonKMS)
 
+## AAct 急活工具
+
+AAct是一款绿色免费的能够自动设置密钥管理服务急活Windows、Office以及VL全部版本，支持手动安装及删除jh产品密钥、支持手动创建及删除续期计划任务，相比于国外的同类工具，自认为蛮好用，体积小、单执行文件、无残留文件，激活成功率高！（果核剥壳）
+
+### 下载地址
+
+[果核剥壳（推荐）](https://www.ghpym.com/category/all/system)
+
+[返回分类](#menu)
+
 ## <span id="unfriendly">不友好软件</span>
 
 腾讯电脑管家
@@ -274,7 +284,7 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 
 FF新鲜事
 
-
+[返回分类](#menu)
 
 ### Markdown
 
