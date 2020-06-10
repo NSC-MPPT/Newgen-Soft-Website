@@ -17,6 +17,10 @@
 
 [编辑器和 IDE ](#ide) - [Visual Studio](#vs) - [Visual Studio Code](#vscode) - [Dev-C++](#devcpp)
 
+[系统](#system)
+
+[jihuo](#jh)
+
 [不友好软件（公 开 处 刑）](#unfriendly)
 
 ## <span id="zip">压缩软件</span>
@@ -245,6 +249,22 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 [蓝奏云（推荐）](https://lanzous.com/im7uVdi5k1c)   [官网](https://www.sublimetext.com/)  [果核剥壳](https://www.ghpym.com/sublimetext3-2.html)
 
 [返回分类](#menu)
+
+## <span id="jihuo">急活</span>
+
+## 果核剥壳 KMS 急活脚本
+
+本脚本来自果核剥壳网友@edragon为本站制作的KMS jh脚本，包括脚本文件和exe可执行文件。能智能识别系统版本，激活不同的系统版本，同时整合了office jh码，能对office版本进行jh。另外脚本还包括清除jh信息的功能，使用前建议先清除以前的jh信息。
+
+本站KMS服务器，长期维护，服务器来自微软云，真正官方jh。
+
+手动jh请查看：https://www.ghpym.com/kms.html，欢迎更多的网友使用本站服务器制作jh软件。
+
+脚本jh以后，系统会自动每周验证，虽然显示jh180天，但是到了时间，系统会自动续期，无需手动操作，这个续期的功能是Windows自带的，无需手动操作，所以相当于一次jh，永久使用。（果核剥壳）
+
+### 下载地址
+
+[果核剥壳（推荐）](https://www.ghpym.com/ghkmsbat.html)   [Github](https://github.com/EDragon007/EDragonKMS)
 
 ## <span id="unfriendly">不友好软件</span>
 
