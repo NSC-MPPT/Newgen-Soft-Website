@@ -65,7 +65,7 @@
 
 [果核剥壳（推荐）](https://www.ghpym.com/bandizip.html)  
 
-[官网6.27无广告版本下载 |](https://dl.bandisoft.com/bandizip/BANDIZIP-SETUP.EXE) 
+[官网6.27无广告版本下载](https://dl.bandisoft.com/bandizip/BANDIZIP-SETUP.EXE) 
 
 [官网7.0+有广告版本下载](http://dl.bandisoft.com/bandizip.std/BANDIZIP-SETUP-STD-ALL.EXE)
 
@@ -93,7 +93,7 @@
 
 ### 下载地址
 
-[官网（推荐](https://www.microsoft.com/zh-cn/edge?form=MI13F3&OCID=MI13F3) 
+[官网（推荐）](https://www.microsoft.com/zh-cn/edge?form=MI13F3&OCID=MI13F3) 
 
 [果核剥壳增强版](https://www.ghpym.com/microsoftedgeportable.html) 
 
@@ -107,7 +107,7 @@
 
 ### 下载地址
 
-[果核剥壳无修改版本（推荐](https://www.ghpym.com/pcchrome.html)   
+[果核剥壳无修改版本（推荐）](https://www.ghpym.com/pcchrome.html)   
 
 [官网](https://www.google.com/intl/zh-CN/chrome) 
 
@@ -137,7 +137,7 @@
 
  [官网直链下载（推荐）](http://static.centbrowser.cn/installer_32/centbrowser_4.2.10.171.exe)  
  
- [果核剥壳便携版 |](https://www.ghpym.com/centbrowser.html)
+ [果核剥壳便携版](https://www.ghpym.com/centbrowser.html)
 
 ## 星愿浏览器
 
