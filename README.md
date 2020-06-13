@@ -7,12 +7,12 @@
 
 本网站 0 成本，不耗费我们的精力。欢迎提出批评和建议！
 
-[填写反馈](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__gTZBtpUN0hNQllNUks0MFJHNVNOWkNMT1pESFVZNS4u)
-  [Github Issues](https://github.com/NSC-MPPT/Newgen-Soft-Website/issues)
+[填写反馈 |](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__gTZBtpUN0hNQllNUks0MFJHNVNOWkNMT1pESFVZNS4u)
+  [ Github Issues](https://github.com/NSC-MPPT/Newgen-Soft-Website/issues)
 
 ## 联系我们
 
-[电子邮箱](mailto:1377022612@qq.com)    [B站](https://space.bilibili.com/349909599)
+[电子邮箱 | ](mailto:1377022612@qq.com)    [B站](https://space.bilibili.com/349909599)
 
 ## <span id="menu">按分类查找</span>
 
@@ -52,7 +52,7 @@
 
 ### 下载地址
 
-[果核剥壳（推荐）](https://www.ghpym.com/bandizip.html)  [官网6.27无广告版本下载](https://dl.bandisoft.com/bandizip/BANDIZIP-SETUP.EXE) 
+[果核剥壳（推荐） | ](https://www.ghpym.com/bandizip.html)  [官网6.27无广告版本下载 | ](https://dl.bandisoft.com/bandizip/BANDIZIP-SETUP.EXE) 
  [官网7.0+有广告版本下载](http://dl.bandisoft.com/bandizip.std/BANDIZIP-SETUP-STD-ALL.EXE)
 
 ## 360压缩（国际版）
@@ -79,7 +79,7 @@
 
 ### 下载地址
 
-[官网（推荐）](https://www.microsoft.com/zh-cn/edge?form=MI13F3&OCID=MI13F3)  [果核剥壳增强版](https://www.ghpym.com/microsoftedgeportable.html) 
+[官网（推荐） | ](https://www.microsoft.com/zh-cn/edge?form=MI13F3&OCID=MI13F3)  [果核剥壳增强版 | ](https://www.ghpym.com/microsoftedgeportable.html) 
  [果核剥壳无修改版本](https://www.ghpym.com/microsoftedge.html)
 
 ## <span id="chrome">Google Chrome</span>
@@ -90,7 +90,7 @@
 
 ### 下载地址
 
-[果核剥壳无修改版本（推荐）](https://www.ghpym.com/pcchrome.html)   [官网](https://www.google.com/intl/zh-CN/chrome) 
+[果核剥壳无修改版本（推荐） | ](https://www.ghpym.com/pcchrome.html)   [官网 | ](https://www.google.com/intl/zh-CN/chrome) 
  [果核剥壳增强版](https://www.ghpym.com/chrome.html)
 
 ## Firefox
@@ -101,7 +101,7 @@
 
 ### 下载地址
 
-[官网直链下载（推荐）](https://download-ssl.firefox.com.cn/releases-sha2/stub/official/zh-CN/Firefox-latest.exe)  [果核剥壳无修改版本](https://www.ghpym.com/mozillafirefox.html)  [果核剥壳增强版](https://www.ghpym.com/runningcheesefirefox.html)
+[官网直链下载（推荐） | ](https://download-ssl.firefox.com.cn/releases-sha2/stub/official/zh-CN/Firefox-latest.exe)  [果核剥壳无修改版本 | ](https://www.ghpym.com/mozillafirefox.html)  [果核剥壳增强版](https://www.ghpym.com/runningcheesefirefox.html)
 
 ## 百分浏览器
 
@@ -111,7 +111,7 @@
 
 ### 下载地址
 
- [官网直链下载（推荐）](http://static.centbrowser.cn/installer_32/centbrowser_4.2.10.171.exe)  [果核剥壳便携版](https://www.ghpym.com/centbrowser.html)
+ [官网直链下载（推荐） | ](http://static.centbrowser.cn/installer_32/centbrowser_4.2.10.171.exe)  [果核剥壳便携版 | ](https://www.ghpym.com/centbrowser.html)
 
 ## 星愿浏览器
 
@@ -121,7 +121,7 @@
 
 ### 下载地址
 
-[官网](https://www.twinkstar.com/)  [果核剥壳便携版](https://www.ghpym.com/twinkstar.html)
+[官网 | ](https://www.twinkstar.com/)  [果核剥壳便携版](https://www.ghpym.com/twinkstar.html)
 
 ## 360极速浏览器
 
@@ -145,7 +145,7 @@
 
 ### 下载地址
 
-[果核剥壳蓝奏云（推荐）](https://lanzous.com/b00ze15ab)  [果核剥壳原页面](https://www.ghpym.com/yxkhj.html)
+[果核剥壳蓝奏云（推荐） | ](https://lanzous.com/b00ze15ab)  [果核剥壳原页面](https://www.ghpym.com/yxkhj.html)
 
 ## <span id="java64">Java （64 位）</span>
 
@@ -155,7 +155,7 @@ Java 的 64 位版本，适用于 Minecraft。**不是 JVAV！**
 
 ### 下载地址
 
-[蓝奏云（推荐）](https://lanzous.com/ir6q4di3mde)  [官网直链下载](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242029_3d5a2bb8f8d4428bbe94aed7ec7ae784)
+[蓝奏云（推荐） | ](https://lanzous.com/ir6q4di3mde)  [官网直链下载](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242029_3d5a2bb8f8d4428bbe94aed7ec7ae784)
 
 ## VBA For WPS
 
@@ -189,7 +189,7 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 
 ### 下载地址
 
-[官网（推荐）](http://weishi.360.cn/qudongdashi/index.html)  [果核剥壳单文件](https://www.ghpym.com/360drvmgr.html)
+[官网（推荐） | ](http://weishi.360.cn/qudongdashi/index.html)  [果核剥壳单文件](https://www.ghpym.com/360drvmgr.html)
 
 [返回分类](#menu)
 
@@ -227,7 +227,7 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 
 ### 下载地址
 
-[官网（推荐）](https://visualstudio.microsoft.com/zh-hans/)  [果核剥壳](https://www.ghpym.com/visualstudioios.html)
+[官网（推荐） | ](https://visualstudio.microsoft.com/zh-hans/)  [果核剥壳](https://www.ghpym.com/visualstudioios.html)
 
 ## <span id="vscode">Visual Studio Code</span>
 
@@ -237,7 +237,7 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 
 ### 下载地址
 
-[官网（推荐）](https://visualstudio.microsoft.com/zh-hans/)  [果核剥壳](https://www.ghpym.com/vscode.html)
+[官网（推荐） | ](https://visualstudio.microsoft.com/zh-hans/)  [果核剥壳](https://www.ghpym.com/vscode.html)
 
 ## <span id="devcpp">Dev-C++</span>
 
@@ -257,7 +257,7 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 
 ### 下载地址
 
-[蓝奏云（推荐）](https://lanzous.com/im7uVdi5k1c)   [官网](https://www.sublimetext.com/)  [果核剥壳](https://www.ghpym.com/sublimetext3-2.html)
+[蓝奏云（推荐） | ](https://lanzous.com/im7uVdi5k1c)   [官网 | ](https://www.sublimetext.com/)  [果核剥壳](https://www.ghpym.com/sublimetext3-2.html)
 
 [返回分类](#menu)
 
@@ -290,7 +290,7 @@ Deepin ：[前往 清华大学开源软件镜像站](https://mirrors4.tuna.tsing
 ### 下载地址
 脚本jh以后，系统会自动每周验证，虽然显示jh180天，但是到了时间，系统会自动续期，无需手动操作，这个续期的功能是Windows自带的，无需手动操作，所以相当于一次jh，永久使用。（果核剥壳）
 
-[果核剥壳（推荐）](https://www.ghpym.com/ghkmsbat.html)   [Github](https://github.com/EDragon007/EDragonKMS)
+[果核剥壳（推荐） | ](https://www.ghpym.com/ghkmsbat.html)   [Github](https://github.com/EDragon007/EDragonKMS)
 
 ## AAct 急活工具
 
@@ -312,7 +312,7 @@ AAct是一款绿色免费的能够自动设置密钥管理服务急活Windows、
 
 ### 下载地址
 
-[Office Tool Plus（推荐）](https://otp.landian.vip/zh-cn/)  [官网购买](https://www.microsoftstore.com.cn/c/office) [果核剥壳](https://www.ghpym.com/?s=Office)
+[Office Tool Plus（推荐） | (https://otp.landian.vip/zh-cn/)  [官网购买 | ](https://www.microsoftstore.com.cn/c/office) [果核剥壳](https://www.ghpym.com/?s=Office)
 
 ## <span id="wps">WPS Office</span>
 
@@ -340,7 +340,7 @@ AAct是一款绿色免费的能够自动设置密钥管理服务急活Windows、
 
 ### 下载地址
 
-[果核剥壳（推荐）](https://www.ghpym.com/pcidm.html) [果核剥壳购买](https://www.ghpym.com/idmzb.html)
+[果核剥壳（推荐） | ](https://www.ghpym.com/pcidm.html) [果核剥壳购买](https://www.ghpym.com/idmzb.html)
 
 ## <span id="idm">FDM</span>
 
@@ -350,7 +350,7 @@ IDM 的免费版。
 
 ### 下载地址
 
-[果核剥壳（推荐）](https://www.ghpym.com/fdm.html)  [官网直链下载](https://dn3.freedownloadmanager.org/6/latest/fdm_x64_setup.exe)
+[果核剥壳（推荐） | ](https://www.ghpym.com/fdm.html)  [官网直链下载](https://dn3.freedownloadmanager.org/6/latest/fdm_x64_setup.exe)
 
 ## <span id="mot">Motrix</span>
 
@@ -360,7 +360,7 @@ Motrix是一款基于electron开发的跨平台下载软件，核心下载服务
 
 ### 下载地址
 
-[官网（推荐）](https://motrix.app/zh-CN/)  [果核剥壳](https://www.ghpym.com/motrix.html)
+[官网（推荐） | ](https://motrix.app/zh-CN/)  [果核剥壳](https://www.ghpym.com/motrix.html)
 
 [返回分类](#menu)
 
@@ -382,7 +382,7 @@ Motrix是一款基于electron开发的跨平台下载软件，核心下载服务
 
 ### 下载地址
 
-[谷歌扩展商店（需要代理）](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh)  [蓝奏云解包的扩展（请自行查找使用方法）](https://lanzous.com/iHZV0dm3api)
+[谷歌扩展商店（需要代理） | ](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh)  [蓝奏云解包的扩展（请自行查找使用方法）](https://lanzous.com/iHZV0dm3api)
 
 [返回分类](#menu)
 
