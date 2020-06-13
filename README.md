@@ -25,7 +25,7 @@
 
 [下载器](#down) - [IDM](#idm) - [FDM](#fdm) - [Motrix](#mot)
 
-[浏览器插件](#browplus)
+[浏览器扩展插件](#browplus)
 
 [不友好软件（公 开 处 刑）](#unfriendly)
 
@@ -353,7 +353,7 @@ Motrix是一款基于electron开发的跨平台下载软件，核心下载服务
 
 [返回分类](#menu)
 
-## <span id="browplus">浏览器扩展</span>
+## <span id="browplus">浏览器扩展插件</span>
 
 ## 集装箱
 
