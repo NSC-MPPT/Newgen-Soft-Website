@@ -23,7 +23,7 @@
 
 [办公软件](#offices) - [Microsoft Office](#office) - [WPS Office](#wps)
 
-[下载器](#down)
+[下载器](#down) - [IDM](#idm) - [FDM](#fdm) - [Motrix](#mot)
 
 [不友好软件（公 开 处 刑）](#unfriendly)
 
@@ -317,6 +317,40 @@ AAct是一款绿色免费的能够自动设置密钥管理服务急活Windows、
 
 [返回分类](#menu)
 
+## <span id="down">下载器</span>
+
+## <span id="idm">IDM</span>
+
+![img](https://tse4-mm.cn.bing.net/th/id/OIP.T7bcoJNkx_t3oC41_OvxHwAAAA?pid=Api&rs=1){:height="100" width="100"}
+
+大佬级别的下载器，但是需要付费。
+
+### 下载地址
+
+[果核剥壳（推荐）](https://www.ghpym.com/pcidm.html) [果核剥壳购买](https://www.ghpym.com/idmzb.html)
+
+## <span id="idm">FDM</span>
+
+# FDM
+
+IDM 的免费版。
+
+### 下载地址
+
+[果核剥壳（推荐）](https://www.ghpym.com/fdm.html)  [官网直链下载](https://dn3.freedownloadmanager.org/6/latest/fdm_x64_setup.exe)
+
+## <span id="mot">Motrix</span>
+
+![img](https://tse1-mm.cn.bing.net/th/id/OIP.NuFn0CJ5A-XWDxjrfq7lcgHaHa?pid=Api&rs=1){:height="100" width="100"}
+
+Motrix是一款基于electron开发的跨平台下载软件，核心下载服务还是由aria2c支持，是一款精品的下载工具，支持支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源，是一款不可多得的高颜值下载软件。（果核剥壳）
+
+### 下载地址
+
+[官网（推荐）](https://motrix.app/zh-CN/)  [果核剥壳](https://www.ghpym.com/motrix.html)
+
+[返回分类](#menu)
+
 ## <span id="unfriendly">不友好软件</span>
 
 腾讯电脑管家
@@ -327,4 +361,4 @@ FF新鲜事
 
 [返回分类](#menu)
 
-网站版本 20200610
+网站版本 20200613
