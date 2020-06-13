@@ -3,18 +3,25 @@
 
 本网站旨在搭建一个良心软件的聚集地。现已和 Linkinter 合作！
 
+*** --- __
+
 ## 反馈您的想法
 
 本网站 0 成本，不耗费我们的精力。欢迎提出批评和建议！
 
 [填写反馈](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__gTZBtpUN0hNQllNUks0MFJHNVNOWkNMT1pESFVZNS4u)
+
 [Github Issues](https://github.com/NSC-MPPT/Newgen-Soft-Website/issues)
+
+*** --- __
 
 ## 联系我们
 
 [电子邮箱](mailto:1377022612@qq.com)
 
 [B站](https://space.bilibili.com/349909599)
+
+*** --- __
 
 ## <span id="menu">按分类查找</span>
 
@@ -41,6 +48,8 @@
 [浏览器扩展插件](#browplus)
 
 [不友好软件（公 开 处 刑）](#unfriendly)
+
+*** --- __
 
 ## <span id="zip">压缩软件</span>
 
