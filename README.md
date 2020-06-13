@@ -371,7 +371,7 @@ Motrix是一款基于electron开发的跨平台下载软件，核心下载服务
 
 ### 下载地址
 
-[谷歌扩展商店（需要代理）](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh)
+[谷歌扩展商店（需要代理）](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh)  [蓝奏云解包的扩展（请自行查找使用方法）](https://lanzous.com/iHZV0dm3api)
 
 ## <span id="unfriendly">不友好软件</span>
 
