@@ -3,7 +3,7 @@
 
 本网站旨在搭建一个良心软件的聚集地。现已和 Linkinter 合作！
 
-===============
+ ******
 
 ## 反馈您的想法
 
@@ -13,7 +13,7 @@
 
 [Github Issues](https://github.com/NSC-MPPT/Newgen-Soft-Website/issues)
 
-===============
+ ******
 
 ## 联系我们
 
@@ -21,7 +21,7 @@
 
 [B站](https://space.bilibili.com/349909599)
 
-===============
+ ******
 
 ## <span id="menu">按分类查找</span>
 
@@ -49,7 +49,7 @@
 
 [不友好软件（公 开 处 刑）](#unfriendly)
 
-===============
+ ******
 
 ## <span id="zip">压缩软件</span>
 
