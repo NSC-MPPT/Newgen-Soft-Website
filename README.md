@@ -7,7 +7,7 @@
 
 ## 反馈您的想法
 
-本网站 0 成本，不耗费我们的精力。欢迎提出批评和建议！
+本网站 0 成本，不耗费我们的精力和财力。欢迎提出批评和建议！
 
 [填写反馈](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__gTZBtpUN0hNQllNUks0MFJHNVNOWkNMT1pESFVZNS4u)
 
