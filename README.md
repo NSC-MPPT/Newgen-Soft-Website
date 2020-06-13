@@ -25,6 +25,8 @@
 
 [下载器](#down) - [IDM](#idm) - [FDM](#fdm) - [Motrix](#mot)
 
+[浏览器插件](#browplus)
+
 [不友好软件（公 开 处 刑）](#unfriendly)
 
 ## <span id="zip">压缩软件</span>
@@ -350,6 +352,26 @@ Motrix是一款基于electron开发的跨平台下载软件，核心下载服务
 [官网（推荐）](https://motrix.app/zh-CN/)  [果核剥壳](https://www.ghpym.com/motrix.html)
 
 [返回分类](#menu)
+
+## <span id="browplus">浏览器扩展</span>
+
+## 集装箱
+
+![img](https://tse3-mm.cn.bing.net/th/id/OIP.6HwZ4hVU8sHv3ZKpFgf9vwAAAA?pid=Api&rs=1){:height="100" width="100"}
+
+国人开发，防“高速下载”，上谷歌。
+
+### 下载地址
+
+[官网（推荐）](http://a.newday.me/)
+
+## ASTAR 猥皮恩
+
+能上又关，能上骨骼，都能上果外网站。
+
+### 下载地址
+
+[谷歌扩展商店（需要代理）](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh)
 
 ## <span id="unfriendly">不友好软件</span>
 
