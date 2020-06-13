@@ -21,7 +21,9 @@
 
 [jihuo Windows](#jh)
 
-[办公软件](#office)
+[办公软件](#offices) - [Microsoft Office](#office) - [WPS Office](#wps)
+
+[下载器](#down)
 
 [不友好软件（公 开 处 刑）](#unfriendly)
 
@@ -298,6 +300,22 @@ AAct是一款绿色免费的能够自动设置密钥管理服务急活Windows、
 ### 下载地址
 
 [Office Tool Plus（推荐）](https://otp.landian.vip/zh-cn/)  [官网购买](https://www.microsoftstore.com.cn/c/office) [果核剥壳](https://www.ghpym.com/?s=Office)
+
+## <span id="wps">WPS Office</span>
+
+![img](https://b.zol-img.com.cn/soft/7_64x64/311/ceWHzDwDCyWw.png){:height="100" width="100"}
+
+不用多说了。
+
+### 下载地址
+
+[果核剥壳专业增强版（推荐）](https://www.ghpym.com/wps2019pro.html)
+
+[果核剥壳专业绿色版（推荐）](https://www.ghpym.com/wpsgreen.html)
+
+[官网下载](https://www.wps.cn/product/wps2016/)
+
+[返回分类](#menu)
 
 ## <span id="unfriendly">不友好软件</span>
 
