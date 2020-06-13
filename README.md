@@ -21,6 +21,8 @@
 
 [jihuo Windows](#jh)
 
+[办公软件](#office)
+
 [不友好软件（公 开 处 刑）](#unfriendly)
 
 ## <span id="zip">压缩软件</span>
@@ -195,7 +197,6 @@ WPS 的 VBA 附件，安装后即可在 WPS 中使用 VBA 功能。
 主打实用功能，配合联想系电脑更佳。
 
 ### 下载地址
- ### 下载地址
 
 [官网](https://guanjia.lenovo.com.cn/)
 
@@ -285,6 +286,18 @@ AAct是一款绿色免费的能够自动设置密钥管理服务急活Windows、
 [果核剥壳（推荐）](https://www.ghpym.com/category/all/system)
 
 [返回分类](#menu)
+
+## <span id="offices">办公软件</span>
+
+## <span id="office">Microsoft Office</span>
+
+![img](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1024px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png){:height="100" width="100"}
+
+不用多说了。
+
+### 下载地址
+
+[Office Tool Plus（推荐）](https://otp.landian.vip/zh-cn/)  [官网购买](https://www.microsoftstore.com.cn/c/office) [果核剥壳](https://www.ghpym.com/?s=Office)
 
 ## <span id="unfriendly">不友好软件</span>
 
